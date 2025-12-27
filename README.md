@@ -28,7 +28,7 @@
 
 <!-- AI Image Enhancer -->
 <b>
-  <a href="https://github.com/TanzeelN/Ai-Image-Upscaler" 
+  <a href="https://tanzeeln.github.io/Ai-Image-Upscaler/" 
      style="text-decoration:none; color:inherit;">
     AI Image Enhancer (React Native / JavaScript / AWS / Python / APIs)
   </a>
